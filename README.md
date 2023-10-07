@@ -46,5 +46,5 @@ If you're new to VPCs and Terraform, you can start with the following resources:
 ## Contributing
 
 Contributions to this documentation are welcome! If you have insights, corrections, or additional information about VPCs and Terraform, please feel free to open an issue or submit a pull request.
-# terraform_project
+
 # “I am not a teacher, but an awakener.” — Robert Frost
