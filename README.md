@@ -1,4 +1,3 @@
-# terraform_project
 # VPCs and Terraform
 
 This README provides an overview of Virtual Private Clouds (VPCs) and Terraform. It explains what they are and why they are essential in cloud infrastructure management.
@@ -48,4 +47,4 @@ If you're new to VPCs and Terraform, you can start with the following resources:
 
 Contributions to this documentation are welcome! If you have insights, corrections, or additional information about VPCs and Terraform, please feel free to open an issue or submit a pull request.
 # terraform_project
-# terraform_project
+# “I am not a teacher, but an awakener.” — Robert Frost
