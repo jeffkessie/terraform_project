@@ -47,4 +47,8 @@ If you're new to VPCs and Terraform, you can start with the following resources:
 
 Contributions to this documentation are welcome! If you have insights, corrections, or additional information about VPCs and Terraform, please feel free to open an issue or submit a pull request.
 
+## Checkout my Blog on Medium!!
+
+https://medium.com/@jeffkessie50/creating-a-custom-vpc-in-aws-using-terraform-d890e63e43ba
+
 # “I am not a teacher, but an awakener.” — Robert Frost
